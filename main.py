@@ -1,0 +1,12 @@
+# This program says hello and asks for my name.
+print('Hello World!')
+print('What is your name?')
+myName = input ()
+print('It is good to meet you, ' + myName)
+print("Are you a college student?")
+input()
+print('Do you live in the city of Oneonta?')
+input()
+print('What is your name if i may ask?')
+myName = input()
+print('well it was nice meeting you, ' + myName)
